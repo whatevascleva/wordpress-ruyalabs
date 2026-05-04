@@ -19,4 +19,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: wordpress-ruyalabs/themes/my-themes
-          server-dir: /htdocs/wordpress-ruyalabs/themes/my-theme/
+          server-dir: /htdocs/wordpress-ruyalabs/themes/my-themes/
